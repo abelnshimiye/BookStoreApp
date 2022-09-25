@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BookApp</string>
+    <string name="title">Title</string>
+    <string name="author">Author</string>
+    <string name="save">Save</string>
+    <string name="edit">Edit</string>
+    <string name="page_number">page number</string>
+    <string name="summary">summary</string>
+</resources>
